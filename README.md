@@ -24,6 +24,28 @@ In grade 10 i was awarder as Top student of the year.
 
 In grade 12 I was awarded as Prefect.
 
+I know the following languages:
+
+1. Python
+2. C
+3. C++
+4. C#
+5. HTML
+6. CSS
+7. Shell
+8. Java (Still need to master it.)
+9. JavaScript (Still need to master it.)
+
+
+I am currently learning:
+
+1. Ruby
+
+
+
+
+
+
 
 
 
