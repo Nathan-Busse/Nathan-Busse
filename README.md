@@ -45,10 +45,10 @@ I am currently learning:
 1. Ruby
 
 I am a student well more of a Nerd who is addicted to programming.
-I spend most of my freetime when I am not doing schoolwork or anything else, infront of my computer programming a crazy project I thought of the night before
+I spend my freetime when I am not doing schoolwork or anything else, infront of my computer programming a crazy project I thought of the night before
 in my sleep. I am so facinated in programming I dream in it.
 
-My dream is to become a Software Engineer and Mechtronics Engineer and start my own tech compony.
+My dream is to become a Software Engineer and Mechtronics Engineer and start my own tech compony that will change the world.
 Once I have forfilled my dream I would like to further my knowledge and continue my studies improving my vast knowledge of computers.
 
 I am a self-taught programmer who wants to use his gift to change the world one line at a time. 
