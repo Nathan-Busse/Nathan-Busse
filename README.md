@@ -14,13 +14,17 @@ My moto in life is "Make the impossible Possible" and Wish it dream it do it AND
 
 Hobbies:  coding coding coding
 
-I was a Flag barrier for the Bokke in 2013
+I was a Flag barrier for the Springboks in 2013.
+
+In 2015 I got my Amature radio licence.
 
 I was in Scouts till the age of 16 years old.
 
 in grade 7 I was nominated as Prefect.
 
 In grade 10 i was awarder as Top student of the year.
+
+In grade 11 I was nominated one of the Top 3 students of the year
 
 In grade 12 I was awarded as Prefect.
 
