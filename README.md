@@ -36,10 +36,22 @@ I know the following languages:
 8. Java (Still need to master it.)
 9. JavaScript (Still need to master it.)
 
-
 I am currently learning:
 
 1. Ruby
+
+I am a student well more of a Nerd who is addicted to programming.
+I spend most of my freetime when I am not doing schoolwork or anything else, infront of my computer programming a crazy project I thought of the night before
+in my sleep. I am so facinated in programming I dream in it.
+
+My dream is to become a Software Engineer and Mechtronics Engineer and start my own tech compony.
+Once I have forfilled my dream I would like to further my knowledge and continue my studies improving my vast knowledge of computers.
+
+I am a self-taught programmer who wants to use his gift to change the world one line at a time. 
+Everything I know of computers from hardware to programming I taught myself with no-ones help, that is why I see myself as my own role model.
+
+I have a motto that I follow by, which is:
+Wish it, Dream it and Do it.
 
 
 
