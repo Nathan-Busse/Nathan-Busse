@@ -54,11 +54,14 @@ Once I have forfilled my dream I would like to further my knowledge and continue
 I am a self-taught programmer who wants to use his gift to change the world one line at a time. 
 Everything I know of computers from hardware to programming I taught myself with no-ones help, that is why I see myself as my own role model.
 
-### What I have made
+### My first incounter with programming
 
 My first time I actually got into the world of programming was when I was 10 years old where I would mess with the Terminal on my computer.
 My first project I ever made was the MeArm robot operated by an Arduino Uno. 
 My first official language I have learnt was c++.
+
+### Why I love programming
+
 The reason why I love programming so mutch is the things you can learn and to see your creations come to life.
 Programming is a world of imagination and creativity and is the Marvel universe of the modern world.
 Programming is not only used for entertainment, communication or for any electronic device. It is used to save lives.
