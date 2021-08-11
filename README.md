@@ -76,7 +76,9 @@ I have a motto that I follow by, which is:
 Wish it, Dream it and Do it.
 
 
+### Stats
 
+https://github-readme-stats.vercel.app/api?Nathan-Busse=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true
 
 
 
