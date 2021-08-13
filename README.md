@@ -76,6 +76,11 @@ teaching us new things everyday, that is why I love github.
 I have a motto that I follow by, which is:
 Wish it, Dream it and Do it.
 
+# Stats
+
+img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Busse&theme=<THEME_NAME>" />
+
+
 
 
 
