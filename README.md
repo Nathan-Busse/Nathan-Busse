@@ -1,4 +1,6 @@
-### Hello there. 👋
+### <img src="https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/CODE/waving-hand-joypixels-images.gif
+" width="30px">
+
 
 My name is Nathan
 
