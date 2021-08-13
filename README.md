@@ -1,4 +1,4 @@
-# Hello there <img src="https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/CODE/waving-hand-joypixels.gif " width="30px">
+# Greetings everyone! <img src="https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/CODE/waving-hand-joypixels.gif " width="30px">
 
 
 My name is Nathan
