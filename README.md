@@ -100,7 +100,9 @@ Wish it, Dream it and Do it.
 </a>
 
 
+📺 ## My YouTube Channel 
 
+https://www.youtube.com/c/TheProgrammerAffect-Nathan-Busse/featured
 
 
 
