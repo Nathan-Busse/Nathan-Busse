@@ -8,7 +8,7 @@ My name is Nathan
 ### About Myself.
 
 Since I was still very young, I was fascinated by technology especially software, robotics, Artificial Intelligence and space exploration. 
-I started programming back in 2014 when I was 11 with my Raspberry PI Model B+.
+I started programming back in 2014 when I was 10 with my Raspberry PI Model B+.
 
 I am visually impared, the reason for that was that i was 3 months prematured.
 , blind in my left eye  in in my right eye -14.  i will never be able to drive a car.
@@ -19,7 +19,9 @@ Hobbies:  coding coding coding
 
 I was a Flag barrier for the Springboks in 2013.
 
-In 2015 I got my Amature radio licence.
+In 2015 I got my Amateur radio licence.
+In 2022 I upgraded my Amateur radio license to a class A,
+my call sign is ZR6BN.
 
 I was in Scouts till the age of 16 years old.
 
@@ -31,7 +33,7 @@ In grade 11 I was nominated one of the Top 3 students of the year
 
 In grade 12 I was awarded as Prefect.
 
-I know the following languages:
+I have experience in the following languages:
 
 1. Python
 2. C
@@ -55,7 +57,7 @@ My dream is to become a Software Engineer, Game developer and Mechtronics Engine
 Once I have forfilled my dream I would like to further my knowledge and continue my studies improving my vast knowledge of computers.
 
 I am a self-taught programmer who wants to use his gift to change the world one line at a time. 
-Everything I know of computers from hardware to programming I taught myself with no-ones help, that is why I see myself as my own role model.
+Everything I know of computers from hardware to programming I taught myself with no-ones help besides asking questions, that is why I see myself as my own role model.
 
 ### My first incounter with programming
 
