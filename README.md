@@ -8,7 +8,7 @@ My name is Nathan
 ### About Myself.
 
 Since I was still very young, I was fascinated by technology especially software, robotics, Artificial Intelligence and space exploration. 
-I started programming back in 2014 when I was 10 with my Raspberry PI Model B+.
+I fully started programming back in 2014 when I was 10 with my Raspberry PI Model   B+.
 
 I am visually impared, the reason for that was that i was 3 months prematured.
 , blind in my left eye  in in my right eye -14.  i will never be able to drive a car.
@@ -45,10 +45,6 @@ I have experience in the following languages:
 8. Java (Still need to master it.)
 9. JavaScript (Still need to master it.)
 
-I am currently learning:
-
-1. Ruby
-
 I am a student well more of a Nerd who is addicted to programming.
 I spend my freetime when I am not doing schoolwork or anything else, infront of my computer programming a crazy project I thought of the night before
 in my sleep. I am so facinated in programming I dream in it.
@@ -61,7 +57,7 @@ Everything I know of computers from hardware to programming I taught myself with
 
 ### My first incounter with programming
 
-My first time I actually got into the world of programming was when I was 10 years old where I would mess with the Terminal on my computer.
+My first time I actually got into the world of programming was when I was 9 years old where I would mess with the Terminal on my computer.
 My first project I ever made was the MeArm robot operated by an Arduino Uno. 
 My first official language I have learnt was c++.
 
