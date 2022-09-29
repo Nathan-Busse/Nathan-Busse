@@ -19,7 +19,7 @@ Hobbies:  coding coding coding
 
 I was a Flag barrier for the Springboks in 2013.
 
-In 2015 I got my Amateur radio licence.
+In 2015 I got my Class B Amateur radio licence.
 In 2022 I upgraded my Amateur radio license to a class A,
 my call sign is ZR6BN.
 
