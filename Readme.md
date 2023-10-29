@@ -14,7 +14,7 @@ I am visually impared, the reason for that was that I was 3 months prematured an
 this doesnt stop me, because I don't believe in the word... I can't!
 My moto in life is "Make the impossible Possible" and Wish it dream it do it AND prove people wrong if it come by dissabality!
 
-Hobbies:  coding coding coding
+Hobbies:  coding coding coding.
 
 I was a Flag barrier for the Springboks in 2013.
 
