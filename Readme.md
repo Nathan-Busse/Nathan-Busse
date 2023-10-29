@@ -8,7 +8,7 @@ My name is Nathan
 ### About Myself.
 
 Since I was still very young, I was fascinated by technology especially software, robotics, Artificial Intelligence and space exploration. 
-I fully started programming back in 2014 when I was 10 with my Raspberry PI Model   B+.
+I fully started programming back in 2014 when I was 10 with my Raspberry PI Model B+.
 
 I am visually impared, the reason for that was that i was 3 months prematured.
 , blind in my left eye  in in my right eye -14.  i will never be able to drive a car.
