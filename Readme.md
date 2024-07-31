@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/master/me.jpeg "Header")
 
-# Hello, world! <img src="https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/CODE/waving-Hello_world.gif " width="30px">
+# Hello, world! <img src="/Nathan-Busse/Nathan-Busse/Nathan/CODE/Hello_world.gif" width="30px">
 
 
 My name is Nathan
