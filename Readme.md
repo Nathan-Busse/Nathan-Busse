@@ -36,4 +36,3 @@ Wish it, Dream it and Do it.
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 ## 📺 My YouTube Channel 
-https://www.youtube.com/c/TheProgrammerAffect-Nathan-Busse/featured
