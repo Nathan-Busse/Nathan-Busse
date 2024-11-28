@@ -4,7 +4,7 @@
   uses: tariksahni/coding-stats-wakatime@v1.0.1
   with:
     # WakaTime API Key
-    WAKATIME_API_KEY: 
+    WAKATIME_API_KEY: waka_ceb4fa10-0d79-4af9-9c51-8c7bf51c6f38
     # Github token of the repo for the authentication
     REPO_TOKEN: 
           
