@@ -1,0 +1,10 @@
+            - name: WakaTime Coding Statistics
+  # You may pin to the exact commit or the version.
+  # uses: tariksahni/coding-stats-wakatime@71e809c34adb51557dcbbb0f5862da04c18f8e2b
+  uses: tariksahni/coding-stats-wakatime@v1.0.1
+  with:
+    # WakaTime API Key
+    WAKATIME_API_KEY: 
+    # Github token of the repo for the authentication
+    REPO_TOKEN: 
+          
