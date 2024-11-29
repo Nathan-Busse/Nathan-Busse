@@ -34,4 +34,9 @@ https://m.youtube.com/channel/UCjsEmVAymkfV3x5Hq42Kbuw
 ### Top languages used in respository card:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nathan-Busse&theme=2077)
 
+### Top languages used in commits card:
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nathan-Busse&theme=2077)
+
+
+
 
