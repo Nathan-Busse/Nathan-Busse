@@ -29,4 +29,4 @@ Wish it, Dream it and Do it.
 https://m.youtube.com/channel/UCjsEmVAymkfV3x5Hq42Kbuw
 
 ### Profile details card:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nathan-Busse&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nathan-Busse&theme=2077)
