@@ -47,5 +47,5 @@ jobs:
     needs: build
     steps:
       - name: Deploy to GitHub Pages
-        id: deployment
+        id: yee
         uses: actions/deploy-pages@v4
