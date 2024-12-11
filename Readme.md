@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/master/me.jpeg "Header")
+
 
 # Hello, world!
 
