@@ -31,7 +31,7 @@ https://m.youtube.com/channel/UCjsEmVAymkfV3x5Hq42Kbuw
 # GitHub statistics:
 
 ### Profile details card:
-![](https://wakatime.com/share/@Nathan_Busse/32b75ce8-dc38-41d2-bab9-e578c5b9497e.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nathan-Busse&theme=2077)
 
 ### Top languages used in respository card:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nathan-Busse&theme=2077)
@@ -42,7 +42,7 @@ https://m.youtube.com/channel/UCjsEmVAymkfV3x5Hq42Kbuw
 # Wakatime statistics:
 ### All-time stats:
 
-![](https://wakatime.com/share/@Nathan_Busse/a0e878e4-8951-4ff0-b04d-21dfe6fbce55.svg)
+![](https://wakatime.com/share/@Nathan_Busse/32b75ce8-dc38-41d2-bab9-e578c5b9497e.svg)
 
 ![](https://wakatime.com/share/@Nathan_Busse/ece2358e-d6d0-47d5-9cb2-66dc09850272.svg)
 
