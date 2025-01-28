@@ -40,11 +40,12 @@ https://m.youtube.com/channel/UCjsEmVAymkfV3x5Hq42Kbuw
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nathan-Busse&theme=2077)
 
 # Wakatime statistics:
+### All-time stats:
 
-<figure><embed src="https://wakatime.com/share/@Nathan_Busse/a0e878e4-8951-4ff0-b04d-21dfe6fbce55.svg"></embed></figure>
+![](https://wakatime.com/share/@Nathan_Busse/a0e878e4-8951-4ff0-b04d-21dfe6fbce55.svg)
 
-<figure><embed src="https://wakatime.com/share/@Nathan_Busse/ece2358e-d6d0-47d5-9cb2-66dc09850272.svg"></embed></figure>
+![](https://wakatime.com/share/@Nathan_Busse/ece2358e-d6d0-47d5-9cb2-66dc09850272.svg)
 
-<figure><embed src="https://wakatime.com/share/@Nathan_Busse/aa655e75-ad2b-49ff-9f70-0cef000e1152.svg"></embed></figure>
+![](https://wakatime.com/share/@Nathan_Busse/aa655e75-ad2b-49ff-9f70-0cef000e1152.svg)
 
-<figure><embed src="https://wakatime.com/share/@Nathan_Busse/a768e1b0-04a5-45e5-a85b-32c2a6c00aa3.svg"></embed></figure>
+![](https://wakatime.com/share/@Nathan_Busse/a768e1b0-04a5-45e5-a85b-32c2a6c00aa3.svg)
