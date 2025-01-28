@@ -31,7 +31,7 @@ https://m.youtube.com/channel/UCjsEmVAymkfV3x5Hq42Kbuw
 # GitHub statistics:
 
 ### Profile details card:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nathan-Busse&theme=2077)
+![](https://wakatime.com/share/@Nathan_Busse/32b75ce8-dc38-41d2-bab9-e578c5b9497e.svg)
 
 ### Top languages used in respository card:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nathan-Busse&theme=2077)
