@@ -1,6 +1,6 @@
 # *Lifelong Innovator | Advanced Technologist | Visionary Learner*
 
-I’m Nathan Busse—a dedicated technologist with a passion for transforming ideas into innovative, industry-ready solutions. My expertise spans AI, robotics, cybersecurity, and additive manufacturing, and I’m continuously pushing my boundaries to master emerging disciplines.
+I’m Nathan Busse a dedicated technologist with a passion for transforming ideas into innovative, industry-ready solutions. My expertise spans AI, robotics, cybersecurity, and additive manufacturing, and I’m continuously pushing my boundaries to master emerging disciplines.
 
 ## A Structured Journey to Mastery:
 I’ve developed a comprehensive 3–5 year study plan to deepen my knowledge and hands-on skills. In the foundational phase, I’m establishing core competencies through programs like the Deep Learning Specialization by Andrew Ng, NVIDIA Certified AI Practitioner, Siemens Certified Mechatronic Systems Assistant, introductory ROS-2 studies, Certified Ethical Hacker training, and Autodesk’s Generative Design & 3D Printing Certification. This rigorous first year focuses on building a solid base in neural networks, GPU computing, practical robotics, cybersecurity fundamentals, and digital fabrication.
