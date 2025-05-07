@@ -1,4 +1,4 @@
-# _Lifelong Innovator | Advanced Technologist | Visionary Learner_
+# _Lifelong Innovator | Advanced Technologist | Visionary_
 
 I’m Nathan Busse a dedicated technologist with a passion for transforming ideas into innovative, industry-ready solutions. My expertise spans AI, robotics, cybersecurity, and additive manufacturing, and I’m continuously pushing my boundaries to master emerging disciplines.
 
