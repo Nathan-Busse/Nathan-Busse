@@ -7,9 +7,9 @@
 
 - **Full Name:** Nathan Graham Busse  
 - **Location:** Johannesburg, South Africa  
-- **Languages:** Native English speaker, fluent in Afrikaans  
+- **Languages:** Native English speaker, fluent in Afrikaans and, beginner in German
 
-From the dusty classrooms of Johannesburg to the digital frontiers of AI and robotics, Nathan Graham Busse emerged as a rare breed of technologist—unbound by traditional learning and fueled by unrelenting curiosity. Despite visual impairment, he built a LEGO replica of the Bloodhound LSR as a child, revealing an innate understanding of engineering and perseverance.
+From the dusty classrooms of Johannesburg to the digital frontiers of AI and robotics, Nathan Graham Busse emerged as a rare breed of technologist—unbound by traditional learning and fueled by unrelenting curiosity. Despite being 3 months premature, blind in the left eye and visually impaired in the right eye since birth, sitting at -15 with only 80 degrees of field of vision, he built a LEGO replica of the Bloodhound LSR as a child, revealing an innate understanding of engineering and perseverance.
 
 ---
 
@@ -78,23 +78,6 @@ Complete product branding + UI system bridging robotics, web, and IoT.
 - AI Photo Sorter (context-aware auto-organization)  
 - GUI Minecraft Server Manager  
 - Custom-designed iPad case (3D printed to perfection)
-
----
-
-## 🧪 Visionary Enterprise
-
-### 🏢 Novatra
-**Slogan:** *"The company that founded the future."*  
-**Mission:** Redefine tech accessibility through AI, robotics, and manufacturing.  
-
-**Values:** Innovation · Affordability · Global inclusion  
-
-**Model:**
-- Modular robots & AI tools for homes, farms, and industries  
-- 3D printing for the printerless (like PCBWay)  
-- CNC, laser cutting, 3D modeling services  
-- Affordable solutions for the developing world  
-- Human-guided AI, never autonomous
 
 ---
 
