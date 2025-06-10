@@ -59,28 +59,6 @@ From the dusty classrooms of Johannesburg to the digital frontiers of AI and rob
 
 ---
 
-## 🧩 Projects That Push Reality
-
-### 🧠 ZionHome
-An AI-powered smart home assistant with offline-first voice control, custom TTS, and ethical automation.
-
-### 🌌 Nebula Navigator
-Codebase turned cosmos. A Unity WebGL & FastAPI 3D code explorer with:
-- Touchscreen & trackpad support  
-- Point-and-click mechanics  
-- Real-time node-based insights  
-- Perlin noise terrain & explorable 3D clusters
-
-### 🌍 WinLink
-Complete product branding + UI system bridging robotics, web, and IoT.
-
-### 🔧 Other Tools & Inventions
-- AI Photo Sorter (context-aware auto-organization)  
-- GUI Minecraft Server Manager  
-- Custom-designed iPad case (3D printed to perfection)
-
----
-
 ## 💼 Career Domains
 
 - Robotics Engineering  
