@@ -84,10 +84,18 @@ I am a passionate individual with diverse interests and a drive for excellence.
 ---
 
 ## &#x1f4c8; GitHub Stats
+<a href="https://github.com/Nathan-Busse">
+  <img align="center" src="https://your-vercel-app.vercel.app/api?username=Nathan-Busse&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=86400" />
+</a>
 
 <a href="https://github.com/Nathan-Busse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Busse&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://your-vercel-app.vercel.app/api/top-langs/?username=Nathan-Busse&hide=cpp,java,html,tex&langs_count=3&cache_seconds=86400" />
 </a>
+
 <a href="https://github.com/Nathan-Busse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nathan-Busse&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nathan's GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathan-Busse&bg_color=1d1f21&color=2bbc8a&line=ffffff&point=2bbc8a&area=true&hide_border=true" />
+</a>
+
+<a href="https://github.com/Nathan-Busse">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Nathan-Busse" />
 </a>
