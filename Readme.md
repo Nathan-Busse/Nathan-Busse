@@ -96,6 +96,15 @@ I am a passionate individual with diverse interests and a drive for excellence.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathan-Busse&bg_color=1d1f21&color=2bbc8a&line=ffffff&point=2bbc8a&area=true&hide_border=true" />
 </a>
 
-<a href="https://github.com/Nathan-Busse">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Nathan-Busse" />
-</a>
+
+
+
+<h2 align="center">⚡ GitHub Stats </h2>
+<p align="center">
+   <img src="https://github-contribution-stats.vercel.app/api/?username=Nathan-Busse" />
+  <img height="160" style="margin: 0 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Busse&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="160" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Busse&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+
+
+</p>
