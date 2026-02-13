@@ -20,7 +20,7 @@ My motto in life is: **"Make the impossible possible,"** and **"Wish it, dream i
 
 ### My Dream
 
-My ultimate goal is to become a **Software Engineer, Game Developer, and Mechatronics Engineer**, and eventually start my own tech company that will genuinely impact the world.
+My ultimate goal is to become a **Software Engineer, Systems Engineer, and Mechatronics Engineer**, and eventually start my own tech company that will genuinely impact the world.
 
 ---
 
@@ -43,33 +43,6 @@ I also love the community aspect of **GitHub**, which connects millions of progr
 
 * My first official language was **C++**.
 * My first project was the **MeArm robot** operated by an Arduino Uno.
-
-### Languages and Skills
-
-| Category | Languages |
-| :--- | :--- |
-| **Proficient** | **Python**, **C**, **C++**, **C#**, **HTML**, **CSS**, **Shell** |
-
-
----
-
-## ✨ Achievements & Interests
-
-I am a passionate individual with diverse interests and a drive for excellence.
-
-### Academic & Leadership
-* **Grade 12 Prefect**
-* **Top Student of the Year** in Grade 10
-* Nominated as one of the **Top 3 Students** of the Year in Grade 11
-* **Grade 7 Prefect**
-
-### Hobbies & Personal
-* **Coding, Coding, Coding!**
-* I was a **Flag Bearer** for the South African **Springboks** in 2013.
-* Obtained my **Amateur Radio Licence** in 2015.
-* Active in **Scouts** until the age of 16.
-
----
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
