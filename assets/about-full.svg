@@ -50,54 +50,60 @@
   <!-- Section Title -->
   <text x="400" y="60" font-family="'Fira Code', 'Consolas', monospace" font-size="26" font-weight="bold" fill="#2bbc8a" text-anchor="middle" filter="url(#glow)">🚀 About Me: Turning the Impossible Possible</text>
 
-  <!-- Left card - Main About 
-  <rect x="30" y="85" width="470" height="195" rx="12" fill="url(#cardGrad)" stroke="#2bbc8a" stroke-width="1" stroke-opacity="0.3"/>
-  <rect x="30" y="85" width="470" height="195" rx="12" fill="none" stroke="#2bbc8a" stroke-width="1" stroke-opacity="0.15"/>
-  -->
+  <!-- Right card - Personal Philosophy -->
+  <rect x="520" y="85" width="250" height="195" rx="12" fill="url(#cardGrad)" stroke="#2bbc8a" stroke-width="1" stroke-opacity="0.3"/>
   
-  <!-- Card accent corner 
-  <path d="M30 105 L30 85 L50 85" fill="none" stroke="#2bbc8a" stroke-width="2" opacity="0.6"/>
--->
+  <circle cx="645" cy="115" r="18" fill="none" stroke="#2bbc8a" stroke-width="1.5" opacity="0.6"/>
+  <text x="645" y="121" font-family="sans-serif" font-size="16" fill="#2bbc8a" text-anchor="middle" opacity="0.8">💡</text>
+
+  <text x="645" y="150" font-family="'Fira Code', 'Consolas', monospace" font-size="14" font-weight="bold" fill="#2bbc8a" text-anchor="middle">Personal Philosophy</text>
   
-  <!-- Text lines - Main paragraph -->
-  <text x="50" y="112" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#d0d0d0">
-    <tspan x="50" dy="0">Since a young age, I've been captivated by </tspan>
+  <line x1="560" y1="162" x2="730" y2="162" stroke="#2bbc8a" stroke-width="0.5" opacity="0.3"/>
+
+  <text x="540" y="185" font-family="'Segoe UI', Arial, sans-serif" font-size="11.5" fill="#c0c0c0">
+    <tspan x="540" dy="0">I am visually impaired due to being</tspan>
+    <tspan x="540" dy="18">born prematurely (blind in my left eye</tspan>
+    <tspan x="540" dy="18">and -14 in my right). While this means</tspan>
+    <tspan x="540" dy="18">I'll never drive a car, I don't believe</tspan>
+    <tspan x="540" dy="18">in the word "I can't."</tspan>
+  </text>
+
+  <!-- Text lines - Main paragraph (full width now) -->
+  <text x="40" y="112" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#d0d0d0">
+    <tspan x="40" dy="0">Since a young age, I've been captivated by </tspan>
     <tspan fill="#2bbc8a" font-weight="bold">technology</tspan>
     <tspan>, especially </tspan>
-    <tspan fill="#2bbc8a" font-weight="bold">software, robotics, Artificial</tspan>
+    <tspan fill="#2bbc8a" font-weight="bold">software, robotics, Artificial Intelligence, and space exploration</tspan>
   </text>
-  <text x="50" y="132" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#d0d0d0">
-    <tspan x="50" dy="0" fill="#2bbc8a" font-weight="bold">Intelligence, and space exploration</tspan>
-    <tspan>. My journey in programming began in </tspan>
+  <text x="40" y="138" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#d0d0d0">
+    <tspan x="40" dy="0">My journey in programming began in </tspan>
     <tspan fill="#2bbc8a" font-weight="bold">2014</tspan>
-  </text>
-  <text x="50" y="152" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#d0d0d0">
-    <tspan x="50" dy="0">at the age of 11 with my </tspan>
+    <tspan> at the age of 11 with my </tspan>
     <tspan fill="#2bbc8a" font-weight="bold">Raspberry Pi Model B+</tspan>
     <tspan>.</tspan>
   </text>
 
-  <text x="50" y="182" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#d0d0d0">
-    <tspan x="50" dy="0">I am a self-taught programmer, student, and self-proclaimed "Nerd" who is addicted to</tspan>
-    <tspan x="50" dy="20">code. I see myself as my own role model because everything I know—from hardware to</tspan>
-    <tspan x="50" dy="20">programming—I taught myself. I want to use this gift to </tspan>
-    <tspan fill="#2bbc8a" font-weight="bold">change the world, one line of code</tspan>
+  <text x="40" y="174" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#d0d0d0">
+    <tspan x="40" dy="0">I am a self-taught programmer, student, and self-proclaimed "Nerd" who is addicted to code. I see myself</tspan>
+    <tspan x="40" dy="22">as my own role model because everything I know—from hardware to programming—I taught myself.</tspan>
+    <tspan x="40" dy="22">I want to use this gift to </tspan>
+    <tspan fill="#2bbc8a" font-weight="bold">change the world, one line of code at a time.</tspan>
   </text>
-  <text x="50" y="262" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#2bbc8a" font-weight="bold">
-    <tspan x="50" dy="0">at a time.</tspan>
-  </text>
+
+  <!-- Divider line -->
+  <line x1="40" y1="295" x2="760" y2="295" stroke="#2bbc8a" stroke-width="0.5" opacity="0.2"/>
 
   <!-- Bottom section - Motto -->
-  <rect x="30" y="300" width="740" height="100" rx="12" fill="url(#cardGrad)" stroke="#2bbc8a" stroke-width="1" stroke-opacity="0.3"/>
+  <rect x="30" y="310" width="740" height="90" rx="12" fill="url(#cardGrad)" stroke="#2bbc8a" stroke-width="1" stroke-opacity="0.3"/>
   
   <!-- Quote marks -->
-  <text x="60" y="335" font-family="Georgia, serif" font-size="40" fill="#2bbc8a" opacity="0.3">"</text>
-  <text x="710" y="385" font-family="Georgia, serif" font-size="40" fill="#2bbc8a" opacity="0.3">"</text>
+  <text x="60" y="340" font-family="Georgia, serif" font-size="36" fill="#2bbc8a" opacity="0.3">"</text>
+  <text x="710" y="385" font-family="Georgia, serif" font-size="36" fill="#2bbc8a" opacity="0.3">"</text>
 
-  <text x="400" y="340" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="bold" fill="#2bbc8a" text-anchor="middle" filter="url(#glow)">
+  <text x="400" y="345" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="bold" fill="#2bbc8a" text-anchor="middle" filter="url(#glow)">
     "Make the impossible possible"
   </text>
-  <text x="400" y="368" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="bold" fill="#e0e0e0" text-anchor="middle">
+  <text x="400" y="370" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="bold" fill="#e0e0e0" text-anchor="middle">
     and
   </text>
   <text x="400" y="392" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="bold" fill="#2bbc8a" text-anchor="middle">
@@ -111,6 +117,13 @@
   <circle cx="60" cy="452" r="4" fill="#2bbc8a" opacity="0.8">
     <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
   </circle>
+
+  <text x="400" y="448" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#d0d0d0" text-anchor="middle">
+    I am driven to prove that
+  </text>
+  <text x="400" y="470" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="bold" fill="#2bbc8a" text-anchor="middle" filter="url(#softGlow)">
+    DISABILITY IS NOT A BARRIER TO SUCCESS
+  </text>
 
   <!-- Bottom decorative line -->
   <line x1="30" y1="505" x2="770" y2="505" stroke="url(#accentGrad)" stroke-width="1" opacity="0.4"/>
