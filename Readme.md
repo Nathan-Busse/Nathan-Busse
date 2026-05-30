@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/me.jpeg" alt="Nathan Banner" width="100%">
+  <img src="https://github.com/Nathan-Busse/Nathan-Busse/blob/main/me.jpeg" alt="Nathan Banner" width="100%">
 </p>
 
 <!-- Greeting -->
