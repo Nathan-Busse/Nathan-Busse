@@ -50,24 +50,6 @@
   <!-- Section Title -->
   <text x="400" y="60" font-family="'Fira Code', 'Consolas', monospace" font-size="26" font-weight="bold" fill="#2bbc8a" text-anchor="middle" filter="url(#glow)">🚀 About Me: Turning the Impossible Possible</text>
 
-  <!-- Right card - Personal Philosophy -->
-  <rect x="520" y="85" width="250" height="195" rx="12" fill="url(#cardGrad)" stroke="#2bbc8a" stroke-width="1" stroke-opacity="0.3"/>
-  
-  <circle cx="645" cy="115" r="18" fill="none" stroke="#2bbc8a" stroke-width="1.5" opacity="0.6"/>
-  <text x="645" y="121" font-family="sans-serif" font-size="16" fill="#2bbc8a" text-anchor="middle" opacity="0.8">💡</text>
-
-  <text x="645" y="150" font-family="'Fira Code', 'Consolas', monospace" font-size="14" font-weight="bold" fill="#2bbc8a" text-anchor="middle">Personal Philosophy</text>
-  
-  <line x1="560" y1="162" x2="730" y2="162" stroke="#2bbc8a" stroke-width="0.5" opacity="0.3"/>
-
-  <text x="540" y="185" font-family="'Segoe UI', Arial, sans-serif" font-size="11.5" fill="#c0c0c0">
-    <tspan x="540" dy="0">I am visually impaired due to being</tspan>
-    <tspan x="540" dy="18">born prematurely (blind in my left eye</tspan>
-    <tspan x="540" dy="18">and -14 in my right). While this means</tspan>
-    <tspan x="540" dy="18">I'll never drive a car, I don't believe</tspan>
-    <tspan x="540" dy="18">in the word "I can't."</tspan>
-  </text>
-
   <!-- Text lines - Main paragraph (full width now) -->
   <text x="40" y="112" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#d0d0d0">
     <tspan x="40" dy="0">Since a young age, I've been captivated by </tspan>
@@ -117,14 +99,6 @@
   <circle cx="60" cy="452" r="4" fill="#2bbc8a" opacity="0.8">
     <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
   </circle>
-
-  <text x="400" y="448" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#d0d0d0" text-anchor="middle">
-    I am driven to prove that
-  </text>
-  <text x="400" y="470" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="bold" fill="#2bbc8a" text-anchor="middle" filter="url(#softGlow)">
-    DISABILITY IS NOT A BARRIER TO SUCCESS
-  </text>
-
   <!-- Bottom decorative line -->
   <line x1="30" y1="505" x2="770" y2="505" stroke="url(#accentGrad)" stroke-width="1" opacity="0.4"/>
   <circle cx="400" cy="505" r="2" fill="#2bbc8a" opacity="0.6"/>
