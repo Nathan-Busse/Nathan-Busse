@@ -1,12 +1,12 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://github.com/Nathan-Busse/Nathan-Busse/blob/main/me.jpeg" alt="Nathan Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/main/me.jpeg" alt="Nathan Banner" width="100%">
 </p>
 
 <!-- Greeting -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/CODE/waving-hand-joypixels.gif" width="32">
-  <strong style="font-size: 24px; color: #2BBC8A;">Hello, World!</strong>
+  <strong style="font-size: 24px; color: #2BBC8A;">Greetings, World!</strong>
   <img src="https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/CODE/waving-hand-joypixels.gif" width="32">
 </p>
 
@@ -67,10 +67,16 @@
   <img src="https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/main/assets/philosophy.svg" width="550">
 </div>
 
-<!-- Wave Separator & Contact -->
+<!-- Wave Separator -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/main/assets/wave.svg" width="400">
-  <br>
+</div>
+
+<br>
+
+<!-- Social Links (commented out) -->
+<!--
+<div align="center">
   <a href="https://github.com/Nathan-Busse">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
@@ -83,9 +89,15 @@
   <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <br><br>
+</div>
+-->
+
+<!-- Profile Views -->
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Nathan-Busse&color=2BBC8A&style=flat-square&label=Profile+Views">
 </div>
+
+<br>
 
 <!-- Farewell -->
 <p align="center">
