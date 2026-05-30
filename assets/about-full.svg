@@ -99,6 +99,14 @@
   <circle cx="60" cy="452" r="4" fill="#2bbc8a" opacity="0.8">
     <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
   </circle>
+
+  <text x="400" y="448" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#d0d0d0" text-anchor="middle">
+    I am driven to prove that
+  </text>
+  <text x="400" y="470" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="bold" fill="#2bbc8a" text-anchor="middle" filter="url(#softGlow)">
+    DISABILITY IS NOT A BARRIER TO SUCCESS
+  </text>
+
   <!-- Bottom decorative line -->
   <line x1="30" y1="505" x2="770" y2="505" stroke="url(#accentGrad)" stroke-width="1" opacity="0.4"/>
   <circle cx="400" cy="505" r="2" fill="#2bbc8a" opacity="0.6"/>
