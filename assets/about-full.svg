@@ -1,0 +1,146 @@
+<svg width="100%" height="520" viewBox="0 0 800 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0f"/>
+      <stop offset="50%" stop-color="#111118"/>
+      <stop offset="100%" stop-color="#0d0d14"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2bbc8a"/>
+      <stop offset="100%" stop-color="#1a8a6a"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#151520"/>
+      <stop offset="100%" stop-color="#0f0f18"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="520" fill="url(#bgGrad)"/>
+
+  <!-- Subtle grid pattern -->
+  <g opacity="0.03">
+    <line x1="0" y1="40" x2="800" y2="40" stroke="#2bbc8a" stroke-width="0.5"/>
+    <line x1="0" y1="80" x2="800" y2="80" stroke="#2bbc8a" stroke-width="0.5"/>
+    <line x1="0" y1="120" x2="800" y2="120" stroke="#2bbc8a" stroke-width="0.5"/>
+    <line x1="0" y1="160" x2="800" y2="160" stroke="#2bbc8a" stroke-width="0.5"/>
+    <line x1="0" y1="200" x2="800" y2="200" stroke="#2bbc8a" stroke-width="0.5"/>
+    <line x1="0" y1="240" x2="800" y2="240" stroke="#2bbc8a" stroke-width="0.5"/>
+    <line x1="0" y1="280" x2="800" y2="280" stroke="#2bbc8a" stroke-width="0.5"/>
+    <line x1="0" y1="320" x2="800" y2="320" stroke="#2bbc8a" stroke-width="0.5"/>
+    <line x1="0" y1="360" x2="800" y2="360" stroke="#2bbc8a" stroke-width="0.5"/>
+    <line x1="0" y1="400" x2="800" y2="400" stroke="#2bbc8a" stroke-width="0.5"/>
+    <line x1="0" y1="440" x2="800" y2="440" stroke="#2bbc8a" stroke-width="0.5"/>
+    <line x1="0" y1="480" x2="800" y2="480" stroke="#2bbc8a" stroke-width="0.5"/>
+  </g>
+
+  <!-- Top decorative line -->
+  <line x1="30" y1="20" x2="770" y2="20" stroke="url(#accentGrad)" stroke-width="1" opacity="0.6"/>
+  <circle cx="30" cy="20" r="3" fill="#2bbc8a" opacity="0.8"/>
+  <circle cx="770" cy="20" r="3" fill="#2bbc8a" opacity="0.8"/>
+
+  <!-- Section Title -->
+  <text x="400" y="60" font-family="'Fira Code', 'Consolas', monospace" font-size="26" font-weight="bold" fill="#2bbc8a" text-anchor="middle" filter="url(#glow)">🚀 About Me: Turning the Impossible Possible</text>
+
+  <!-- Left card - Main About -->
+  <rect x="30" y="85" width="470" height="195" rx="12" fill="url(#cardGrad)" stroke="#2bbc8a" stroke-width="1" stroke-opacity="0.3"/>
+  <rect x="30" y="85" width="470" height="195" rx="12" fill="none" stroke="#2bbc8a" stroke-width="1" stroke-opacity="0.15"/>
+  
+  <!-- Card accent corner -->
+  <path d="M30 105 L30 85 L50 85" fill="none" stroke="#2bbc8a" stroke-width="2" opacity="0.6"/>
+
+  <!-- Text lines - Main paragraph -->
+  <text x="50" y="112" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#d0d0d0">
+    <tspan x="50" dy="0">Since a young age, I've been captivated by </tspan>
+    <tspan fill="#2bbc8a" font-weight="bold">technology</tspan>
+    <tspan>, especially </tspan>
+    <tspan fill="#2bbc8a" font-weight="bold">software, robotics, Artificial</tspan>
+  </text>
+  <text x="50" y="132" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#d0d0d0">
+    <tspan x="50" dy="0" fill="#2bbc8a" font-weight="bold">Intelligence, and space exploration</tspan>
+    <tspan>. My journey in programming began in </tspan>
+    <tspan fill="#2bbc8a" font-weight="bold">2014</tspan>
+  </text>
+  <text x="50" y="152" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#d0d0d0">
+    <tspan x="50" dy="0">at the age of 11 with my </tspan>
+    <tspan fill="#2bbc8a" font-weight="bold">Raspberry Pi Model B+</tspan>
+    <tspan>.</tspan>
+  </text>
+
+  <text x="50" y="182" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#d0d0d0">
+    <tspan x="50" dy="0">I am a self-taught programmer, student, and self-proclaimed "Nerd" who is addicted to</tspan>
+    <tspan x="50" dy="20">code. I see myself as my own role model because everything I know—from hardware to</tspan>
+    <tspan x="50" dy="20">programming—I taught myself. I want to use this gift to </tspan>
+    <tspan fill="#2bbc8a" font-weight="bold">change the world, one line of code</tspan>
+  </text>
+  <text x="50" y="262" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#2bbc8a" font-weight="bold">
+    <tspan x="50" dy="0">at a time.</tspan>
+  </text>
+
+  <!-- Right card - Personal Philosophy -->
+  <rect x="520" y="85" width="250" height="195" rx="12" fill="url(#cardGrad)" stroke="#2bbc8a" stroke-width="1" stroke-opacity="0.3"/>
+  
+  <!-- Philosophy icon -->
+  <circle cx="645" cy="115" r="18" fill="none" stroke="#2bbc8a" stroke-width="1.5" opacity="0.6"/>
+  <text x="645" y="121" font-family="sans-serif" font-size="16" fill="#2bbc8a" text-anchor="middle" opacity="0.8">💡</text>
+
+  <text x="645" y="150" font-family="'Fira Code', 'Consolas', monospace" font-size="14" font-weight="bold" fill="#2bbc8a" text-anchor="middle">Personal Philosophy</text>
+  
+  <line x1="560" y1="162" x2="730" y2="162" stroke="#2bbc8a" stroke-width="0.5" opacity="0.3"/>
+
+  <text x="540" y="185" font-family="'Segoe UI', Arial, sans-serif" font-size="11.5" fill="#c0c0c0">
+    <tspan x="540" dy="0">I am visually impaired due to being</tspan>
+    <tspan x="540" dy="18">born prematurely (blind in my left eye</tspan>
+    <tspan x="540" dy="18">and -14 in my right). While this means</tspan>
+    <tspan x="540" dy="18">I'll never drive a car, I don't believe</tspan>
+    <tspan x="540" dy="18">in the word "I can't."</tspan>
+  </text>
+
+  <!-- Bottom section - Motto -->
+  <rect x="30" y="300" width="740" height="100" rx="12" fill="url(#cardGrad)" stroke="#2bbc8a" stroke-width="1" stroke-opacity="0.3"/>
+  
+  <!-- Quote marks -->
+  <text x="60" y="335" font-family="Georgia, serif" font-size="40" fill="#2bbc8a" opacity="0.3">"</text>
+  <text x="710" y="385" font-family="Georgia, serif" font-size="40" fill="#2bbc8a" opacity="0.3">"</text>
+
+  <text x="400" y="340" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="bold" fill="#2bbc8a" text-anchor="middle" filter="url(#glow)">
+    "Make the impossible possible"
+  </text>
+  <text x="400" y="368" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="bold" fill="#e0e0e0" text-anchor="middle">
+    and
+  </text>
+  <text x="400" y="392" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="bold" fill="#2bbc8a" text-anchor="middle">
+    "Wish it, dream it, do it."
+  </text>
+
+  <!-- Bottom message -->
+  <rect x="30" y="420" width="740" height="65" rx="12" fill="url(#cardGrad)" stroke="#2bbc8a" stroke-width="1.5" stroke-opacity="0.5"/>
+  
+  <!-- Pulse dot -->
+  <circle cx="60" cy="452" r="4" fill="#2bbc8a" opacity="0.8">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="400" y="448" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#d0d0d0" text-anchor="middle">
+    I am driven to prove that
+  </text>
+  <text x="400" y="470" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="bold" fill="#2bbc8a" text-anchor="middle" filter="url(#softGlow)">
+    DISABILITY IS NOT A BARRIER TO SUCCESS
+  </text>
+
+  <!-- Bottom decorative line -->
+  <line x1="30" y1="505" x2="770" y2="505" stroke="url(#accentGrad)" stroke-width="1" opacity="0.4"/>
+  <circle cx="400" cy="505" r="2" fill="#2bbc8a" opacity="0.6"/>
+
+  <!-- Corner decorations -->
+  <path d="M30 500 L30 505 L35 505" fill="none" stroke="#2bbc8a" stroke-width="1.5" opacity="0.4"/>
+  <path d="M770 500 L770 505 L765 505" fill="none" stroke="#2bbc8a" stroke-width="1.5" opacity="0.4"/>
+</svg>
