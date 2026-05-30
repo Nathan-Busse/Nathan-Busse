@@ -50,13 +50,15 @@
   <!-- Section Title -->
   <text x="400" y="60" font-family="'Fira Code', 'Consolas', monospace" font-size="26" font-weight="bold" fill="#2bbc8a" text-anchor="middle" filter="url(#glow)">🚀 About Me: Turning the Impossible Possible</text>
 
-  <!-- Left card - Main About -->
+  <!-- Left card - Main About 
   <rect x="30" y="85" width="470" height="195" rx="12" fill="url(#cardGrad)" stroke="#2bbc8a" stroke-width="1" stroke-opacity="0.3"/>
   <rect x="30" y="85" width="470" height="195" rx="12" fill="none" stroke="#2bbc8a" stroke-width="1" stroke-opacity="0.15"/>
+  -->
   
-  <!-- Card accent corner -->
+  <!-- Card accent corner 
   <path d="M30 105 L30 85 L50 85" fill="none" stroke="#2bbc8a" stroke-width="2" opacity="0.6"/>
-
+-->
+  
   <!-- Text lines - Main paragraph -->
   <text x="50" y="112" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#d0d0d0">
     <tspan x="50" dy="0">Since a young age, I've been captivated by </tspan>
