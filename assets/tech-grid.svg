@@ -1,0 +1,39 @@
+<svg width="550" height="180" viewBox="0 0 550 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="hex" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2bbc8a"/>
+      <stop offset="100%" stop-color="#00a86b"/>
+    </linearGradient>
+  </defs>
+  <!-- Row 1 -->
+  <polygon points="45,20 60,30 45,40 30,30" fill="none" stroke="url(#hex)" stroke-width="2"/>
+  <text x="45" y="35" font-family="sans-serif" font-size="8" fill="#e0e0e0" text-anchor="middle">Python</text>
+  <polygon points="105,20 120,30 105,40 90,30" fill="none" stroke="url(#hex)" stroke-width="2"/>
+  <text x="105" y="35" font-family="sans-serif" font-size="8" fill="#e0e0e0" text-anchor="middle">C++</text>
+  <polygon points="165,20 180,30 165,40 150,30" fill="none" stroke="url(#hex)" stroke-width="2"/>
+  <text x="165" y="35" font-family="sans-serif" font-size="8" fill="#e0e0e0" text-anchor="middle">JavaScript</text>
+  <polygon points="225,20 240,30 225,40 210,30" fill="none" stroke="url(#hex)" stroke-width="2"/>
+  <text x="225" y="35" font-family="sans-serif" font-size="8" fill="#e0e0e0" text-anchor="middle">HTML5</text>
+  <polygon points="285,20 300,30 285,40 270,30" fill="none" stroke="url(#hex)" stroke-width="2"/>
+  <text x="285" y="35" font-family="sans-serif" font-size="8" fill="#e0e0e0" text-anchor="middle">Bash</text>
+  <!-- Row 2 -->
+  <polygon points="75,60 90,70 75,80 60,70" fill="none" stroke="url(#hex)" stroke-width="2"/>
+  <text x="75" y="75" font-family="sans-serif" font-size="8" fill="#e0e0e0" text-anchor="middle">Linux</text>
+  <polygon points="135,60 150,70 135,80 120,70" fill="none" stroke="url(#hex)" stroke-width="2"/>
+  <text x="135" y="75" font-family="sans-serif" font-size="8" fill="#e0e0e0" text-anchor="middle">Windows</text>
+  <polygon points="195,60 210,70 195,80 180,70" fill="none" stroke="url(#hex)" stroke-width="2"/>
+  <text x="195" y="75" font-family="sans-serif" font-size="8" fill="#e0e0e0" text-anchor="middle">Arduino</text>
+  <polygon points="255,60 270,70 255,80 240,70" fill="none" stroke="url(#hex)" stroke-width="2"/>
+  <text x="255" y="75" font-family="sans-serif" font-size="8" fill="#e0e0e0" text-anchor="middle">Raspberry Pi</text>
+  <polygon points="315,60 330,70 315,80 300,70" fill="none" stroke="url(#hex)" stroke-width="2"/>
+  <text x="315" y="75" font-family="sans-serif" font-size="8" fill="#e0e0e0" text-anchor="middle">PyCharm</text>
+  <!-- Row 3 -->
+  <polygon points="105,100 120,110 105,120 90,110" fill="none" stroke="url(#hex)" stroke-width="2"/>
+  <text x="105" y="115" font-family="sans-serif" font-size="8" fill="#e0e0e0" text-anchor="middle">GIT</text>
+  <polygon points="165,100 180,110 165,120 150,110" fill="none" stroke="url(#hex)" stroke-width="2"/>
+  <text x="165" y="115" font-family="sans-serif" font-size="8" fill="#e0e0e0" text-anchor="middle">Docker</text>
+  <polygon points="225,100 240,110 225,120 210,110" fill="none" stroke="url(#hex)" stroke-width="2"/>
+  <text x="225" y="115" font-family="sans-serif" font-size="8" fill="#e0e0e0" text-anchor="middle">FIGMA</text>
+  <polygon points="285,100 300,110 285,120 270,110" fill="none" stroke="url(#hex)" stroke-width="2"/>
+  <text x="285" y="115" font-family="sans-serif" font-size="8" fill="#e0e0e0" text-anchor="middle">VS Code</text>
+</svg>
