@@ -6,7 +6,7 @@
 <!-- Greeting -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/CODE/waving-hand-joypixels.gif" width="32">
-  <strong style="font-size: 24px; color: #2BBC8A;">Greetings, World!</strong>
+  <strong style="font-size: 24px; color: #2BBC8A;">Hello, World!</strong>
   <img src="https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/CODE/waving-hand-joypixels.gif" width="32">
 </p>
 
