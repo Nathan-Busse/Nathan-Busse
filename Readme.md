@@ -12,30 +12,6 @@
 
 ---
 
-## 🔧 Technologies &amp; Tools
-
-<!-- Tech Grid SVG -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/main/assets/tech-grid.svg" width="550">
-</div>
-
-<details>
-  <summary>📋 View as Badges</summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&amp;logo=linux&amp;logoColor=white&amp;color=2bbc8a">
-    <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&amp;logo=windows&amp;logoColor=white&amp;color=2bbc8a">
-    <img src="https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&amp;logo=pycharm&amp;logoColor=white&amp;color=2bbc8a">
-    <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&amp;logo=python&amp;logoColor=white&amp;color=2bbc8a">
-    <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=2bbc8a">
-    <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&amp;logo=html5&amp;logoColor=white&amp;color=2bbc8a">
-    <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&amp;logo=c%2B%2B&amp;logoColor=white&amp;color=2bbc8a">
-    <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&amp;logo=gnu-bash&amp;logoColor=white&amp;color=2bbc8a">
-  </p>
-</details>
-
----
-
 ## &#x1f4c8; GitHub Stats
 
 <p align="center">
