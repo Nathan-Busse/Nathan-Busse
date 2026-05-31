@@ -48,7 +48,7 @@
   <circle cx="770" cy="20" r="3" fill="#2bbc8a" opacity="0.8"/>
 
   <!-- Section Title -->
-  <text x="400" y="60" font-family="'Fira Code', 'Consolas', monospace" font-size="26" font-weight="bold" fill="#2bbc8a" text-anchor="middle" filter="url(#glow)"> About Me: Turning the Impossible Possible</text>
+  <text x="400" y="60" font-family="'Fira Code', 'Consolas', monospace" font-size="26" font-weight="bold" fill="#2bbc8a" text-anchor="middle" filter="url(#glow)">🚀 About Me: Turning the Impossible Possible</text>
 
   <!-- Text lines - Main paragraph (full width now) -->
   <text x="40" y="112" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#d0d0d0">
@@ -70,30 +70,6 @@
     <tspan x="40" dy="22">as my own role model because everything I know—from hardware to programming—I taught myself.</tspan>
     <tspan x="40" dy="22">I want to use this gift to </tspan>
     <tspan fill="#2bbc8a" font-weight="bold">change the world, one line of code at a time.</tspan>
-  </text>
-
-  <!-- Second paragraph  -->
-  <text x="40" y="112" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#d0d0d0">
-    <tspan x="40" dy="0">TODO </tspan>
-    <tspan fill="#2bbc8a" font-weight="bold">technology</tspan>
-    <tspan>, TODO </tspan>
-    <tspan fill="#2bbc8a" font-weight="bold">TODO</tspan>
-  </text>
-
-  <!-- Third paragraph -->
-  <text x="40" y="138" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#d0d0d0">
-    <tspan x="40" dy="0">TODO </tspan>
-    <tspan fill="#2bbc8a" font-weight="bold">TODO</tspan>
-    <tspan> TODO </tspan>
-    <tspan fill="#2bbc8a" font-weight="bold">TODO</tspan>
-    <tspan>.</tspan>
-  </text>
-
-  <text x="40" y="174" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#d0d0d0">
-    <tspan x="40" dy="0">TODO</tspan>
-    <tspan x="40" dy="22">TODO</tspan>
-    <tspan x="40" dy="22">TODO </tspan>
-    <tspan fill="#2bbc8a" font-weight="bold">TODO</tspan>
   </text>
 
   <!-- Divider line -->
