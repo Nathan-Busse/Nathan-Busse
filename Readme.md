@@ -3,17 +3,6 @@
   <img src="https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/main/me.jpeg" alt="Nathan Banner" width="100%">
 </p>
 
-<!-- Greeting -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/CODE/waving-hand-joypixels.gif" width="32">
-  <strong style="font-size: 24px; color: #2BBC8A;">Greetings everyone!</strong>
-  <img src="https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/CODE/waving-hand-joypixels.gif" width="32">
-</p>
-
-<p align="center">
-  My name is <strong>Nathan</strong>. Welcome to my GitHub profile!
-</p>
-
 ---
 
 <!-- About Me Full-Page SVG -->
@@ -69,14 +58,6 @@ I also love the community aspect of **GitHub**, which connects millions of progr
 
 ---
 
-## 🗺️ My Journey
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/main/assets/timeline.svg" width="600">
-</div>
-
----
-
 ## &#x1f4c8; GitHub Stats
 
 <p align="center">
@@ -93,12 +74,6 @@ I also love the community aspect of **GitHub**, which connects millions of progr
 </p>
 
 ---
-
-<!-- Philosophy Quote SVG 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/main/assets/philosophy.svg" width="550">
-</div>
--->
 <br>
 
 <!-- Wave Separator -->
