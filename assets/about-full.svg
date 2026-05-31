@@ -48,7 +48,7 @@
   <circle cx="770" cy="20" r="3" fill="#2bbc8a" opacity="0.8"/>
 
   <!-- Section Title -->
-  <text x="400" y="60" font-family="'Fira Code', 'Consolas', monospace" font-size="26" font-weight="bold" fill="#2bbc8a" text-anchor="middle" filter="url(#glow)">🚀 About Me: Turning the Impossible Possible</text>
+  <text x="400" y="60" font-family="'Fira Code', 'Consolas', monospace" font-size="26" font-weight="bold" fill="#2bbc8a" text-anchor="middle" filter="url(#glow)">About Me: Turning the Impossible Possible</text>
 
   <!-- Text lines - Main paragraph (full width now) -->
   <text x="40" y="112" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#d0d0d0">
