@@ -12,28 +12,6 @@
 
 ---
 
-## 💻 My Programming Journey
-
-I am currently a student, and when I'm not doing schoolwork, I'm at my computer, bringing crazy projects I dreamt of the night before to life. I don't just love programming—I dream in it.
-
-### Why I Love Programming
-
-Programming is a world of **imagination and creativity**—the Marvel Universe of the modern world. I love the process of learning and seeing my creations come to life.
-
-More than just entertainment, programming is used to **save lives**:
-* Algorithms that predict and prevent crime.
-* Bomb disposal robots that protect hundreds of lives.
-* Software used in medicine to discover new diseases and develop cures.
-
-I also love the community aspect of **GitHub**, which connects millions of programmers, allowing us to share ideas, collaborate, and learn new things every day.
-
-### First Encounters
-
-* My first official language was **C++**.
-* My first project was the **MeArm robot** operated by an Arduino Uno.
-
----
-
 ## 🔧 Technologies &amp; Tools
 
 <!-- Tech Grid SVG -->
