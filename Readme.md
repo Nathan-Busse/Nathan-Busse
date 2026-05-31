@@ -3,16 +3,10 @@
   <img src="https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/main/me.jpeg" alt="Nathan Banner" width="100%">
 </p>
 
----
-
 <!-- About Me Full-Page SVG -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nathan-Busse/Nathan-Busse/main/assets/about-full.svg" width="100%">
 </div>
-
----
-
-## &#x1f4c8; GitHub Stats
 
 <p align="center">
 
@@ -24,6 +18,3 @@
 <p align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=Nathan-Busse">
 </p>
-
----
-<br>
