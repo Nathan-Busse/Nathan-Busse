@@ -14,7 +14,3 @@
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Busse&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=2BBC8A&amp;fire=2BBC8A&amp;currStreakLabel=2BBC8A">
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Nathan-Busse">
-</p>
