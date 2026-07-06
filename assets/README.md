@@ -1,4 +1,4 @@
-![](assets/Thumbnail.png)
+![](Thimbnail_with_background_small.png)
 
 Imagine you have an old, messy house full of outdated wiring and appliances that nobody wants to touch because fixing one thing might break another. **Exodus** is like a team of seven tiny, tireless electricians who move into that house, study every wire, figure out what needs to change, make the changes, test every light switch, fix anything they broke, and even go to the hardware store to buy missing parts – all while you’re away. When they’re done, the house is modern, safe, and everything works, and they’ve left a neat note explaining what they did.
 
